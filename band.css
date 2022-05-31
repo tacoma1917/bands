@@ -1,0 +1,25 @@
+body {
+  background-color: #F2EBE9;
+}
+
+.jumbotron {
+  background-color: #F77E21;
+  margin-bottom: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#button {
+display: flex;
+align-content: center;
+justify-content: center;
+}
+p {
+  text-align: center;
+  font-family: 'Metal Mania', cursive;
+  font-size: 20px;
+  color: #243A73;
+  font-weight: bold;
+}
