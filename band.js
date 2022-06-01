@@ -22,3 +22,5 @@ function clear(){
 window.location.reload();
 document.getElementById('result').innerHTML = "  "
 };
+console.log(bands1);
+console.log(bands2);
